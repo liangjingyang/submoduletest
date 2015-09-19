@@ -1,0 +1,3 @@
+[submodule "aque_template"]
+	path = aque_template
+	url = https://github.com/liangjingyang/aque_template.git
